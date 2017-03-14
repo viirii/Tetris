@@ -1,2 +1,2 @@
-# Tetris
-Tetris written in Python
+Written in Python3 
+Hard-drop using space bar
